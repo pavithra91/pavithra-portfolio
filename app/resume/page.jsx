@@ -52,7 +52,9 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
-  description: "Test",
+  description:
+    "9+ year dev building & maintaining apps. Expertise in payroll system developments & payment gateway integration. Adept at translating complex needs into user-friendly solutions",
+  //"Software developer with 9+ years of experience building and maintaining applications. Proven track record in payroll systems and payment gateway integration. Adept at translating complex requirements into efficient and user-friendly solutions.",
   items: [
     {
       company: "Ceylon Petroleum Storage Terminals Limited",
@@ -71,7 +73,8 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My Education",
-  description: "Test",
+  description:
+    "D.S. Senanayake College (Colombo 07) graduate, I discovered my passion for software engineering and actively pursued the skills to excel in this field.",
   items: [
     {
       institution: "University of Colombo School of Computing (UCSC)",
@@ -89,7 +92,7 @@ const education = {
 // skill data
 const skills = {
   title: "My Skills",
-  desciption: "Test",
+  desciption: "Full-stack developer (backend focus)",
   skillList: [
     {
       icon: <AiOutlineDotNet />,
