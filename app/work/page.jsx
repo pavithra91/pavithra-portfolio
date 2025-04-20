@@ -23,7 +23,27 @@ const projects = [
   {
     num: "01",
     category: "Full-stack",
-    title: "Non SAP Payroll System",
+    title: "CPSTL Employee Self Service Portal",
+    description: "",
+    stack: [
+      {
+        name: ".Net Core",
+      },
+      {
+        name: "MySQL",
+      },
+      {
+        name: "React JS",
+      },
+    ],
+    image: "/assets/work/thumb4.png",
+    live: "",
+    github: "",
+  },
+  {
+    num: "02",
+    category: "Full-stack",
+    title: "CPSTL Payroll System",
     description: "",
     stack: [
       {
@@ -41,7 +61,7 @@ const projects = [
     github: "",
   },
   {
-    num: "02",
+    num: "03",
     category: "Full-stack",
     title: "Payment Gateway integration",
     description: "",
@@ -55,7 +75,7 @@ const projects = [
     github: "",
   },
   {
-    num: "03",
+    num: "04",
     category: "Full-stack",
     title: "SAP Company Configuration",
     description: "",

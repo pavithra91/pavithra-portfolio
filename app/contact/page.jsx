@@ -20,7 +20,7 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+94) 715 918 243",
+    description: "(+61) 418 999 421",
   },
   {
     icon: <FaEnvelope />,
@@ -30,7 +30,7 @@ const info = [
   {
     icon: <FaMapMarkedAlt />,
     title: "Address",
-    description: "No: 65/A, Bathiya Mawatha Pamunuwilla, Gonawala (WP)",
+    description: "Unit 40C, 1848 Logan Road, Upper Mount Gravatt, 4122 QLD",
   },
 ];
 
