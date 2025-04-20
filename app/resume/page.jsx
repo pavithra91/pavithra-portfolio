@@ -27,7 +27,7 @@ const about = {
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+94) 745 918 243",
+      fieldValue: "(+61) 418 999 421",
     },
     {
       fieldName: "Experience",
