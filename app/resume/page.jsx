@@ -53,7 +53,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
   description:
-    "9+ year dev building & maintaining apps. Expertise in payroll system developments & payment gateway integration. Adept at translating complex needs into user-friendly solutions",
+    "8+ year dev building & maintaining apps. Expertise in payroll system developments & payment gateway integration. Adept at translating complex needs into user-friendly solutions",
   //"Software developer with 9+ years of experience building and maintaining applications. Proven track record in payroll systems and payment gateway integration. Adept at translating complex requirements into efficient and user-friendly solutions.",
   items: [
     {
